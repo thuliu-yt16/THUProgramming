@@ -1,2 +1,0 @@
-# THUProgramming
-Program in THU
